@@ -82,8 +82,8 @@ a:hover {color: #f09228;}
   -webkit-box-shadow: 1pt 1pt 2pt #888888;
 }
 .homepage .project .info {
-  margin: 10pt 20pt 0 180pt;  /*top right bottom left*/
-  font-size: 16pt;
+  margin: 20pt 20pt 0 180pt;  /*top right bottom left*/
+  font-size: 15pt;
   text-align: left;
 }
 
@@ -116,7 +116,7 @@ a:hover {color: #f09228;}
 
 /* Avatars */
 .homepage .avatar {
-  margin: -10pt 20pt 455pt 0pt;  /*top right bottom left*/
+  margin: -10pt 20pt 120pt 0pt;  /*top right bottom left*/
 }
 .homepage .avatar table {
   float: left;
