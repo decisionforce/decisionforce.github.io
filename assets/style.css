@@ -87,6 +87,24 @@ a:hover {color: #f09228;}
   text-align: left;
 }
 
+.homepage .project .image .videoplayer {
+  position: absolute;
+  height: 120pt;
+  width: 160pt;
+  float: left;
+}
+
+.homepage .project .image .videoplayer video {
+  height: 120pt;
+  width: 160pt;
+  margin: 5pt;
+  object-fit: cover;
+  border-radius: 6pt;
+  box-shadow: 1pt 1pt 2pt #888888;
+  -moz-box-shadow: 1pt 1pt 2pt #888888;
+  -webkit-box-shadow: 1pt 1pt 2pt #888888;
+}
+
 /* Tutorials */
 .homepage .tutorial {
   height: 130pt;
